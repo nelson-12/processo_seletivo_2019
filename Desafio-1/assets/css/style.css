@@ -1,0 +1,26 @@
+body{
+    overflow-x: hidden;
+}
+
+.menu{
+    width: 87%;
+    position: relative;
+    left: 5%;
+}
+
+main{
+    position: relative;
+    left: 6%;
+} 
+.sectionCards{
+    width:93%;
+    position: relative;
+    margin-top: 30px;
+}
+
+.tableInformation{
+    width: 85.7%;
+    position:relative;
+    margin-top:50px;
+}
+
